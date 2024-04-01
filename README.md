@@ -1,4 +1,4 @@
-# Data-engineering-Project
+# Data engineering 2024 Zoomcamp Project
 Project submission for Data engineering Zoomcamp 2024 cohort.
 
 ## I.	Dataset creation
