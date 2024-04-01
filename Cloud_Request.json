@@ -1,0 +1,13 @@
+[{
+  "prix": "0.7",
+  "produit": ["Orangina", "OASIS"],
+  "nomclient": "Zakary Hamill",
+  "typeproduit": "boisson",
+  "ville": "Paris"
+}, {
+  "prix": "0.1",
+  "produit": ["Orangina", "7UP"],
+  "nomclient": "Janie Orn",
+  "typeproduit": "boisson",
+  "ville": "Toulouse"
+}]
