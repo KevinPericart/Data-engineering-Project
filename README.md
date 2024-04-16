@@ -45,8 +45,12 @@ A robust visualization dashboard is produced to provide intuitive insights into 
 
 To ensure economic viability and scalability, we conduct a comprehensive cost analysis:
 
-Apache Kafka Cluster Cost: By leveraging a three-node Apache Kafka cluster, each on separate GCP VM instances priced at $25/month, we optimize performance while managing costs effectively.
-Partitioning Strategy: Through careful consideration of throughput requirements, we determine an optimal partitioning strategy, balancing performance and resource utilization.
-Disk Space Calculation: Utilizing key parameters such as message size, retention period, and replication factor, we accurately estimate disk space requirements, enabling cost-effective storage solutions.
-Cloud Storage Migration Cost: We evaluate migration costs to GCP Cloud Storage, accounting for factors such as data volume and storage tier selection, ensuring cost-efficiency in our data storage strategy.
+- Apache Kafka Cluster Cost: By leveraging a three-node Apache Kafka cluster, each on separate GCP VM instances priced at $25/month, we optimize performance while managing costs effectively.
+
+- Partitioning Strategy: Through careful consideration of throughput requirements, we determine an optimal partitioning strategy, balancing performance and resource utilization.
+
+- Disk Space Calculation: Utilizing key parameters such as message size, retention period, and replication factor, we accurately estimate disk space requirements, enabling cost-effective storage solutions.
+
+- Cloud Storage Migration Cost: We evaluate migration costs to GCP Cloud Storage, accounting for factors such as data volume and storage tier selection, ensuring cost-efficiency in our data storage strategy.
+
 In conclusion, our project not only addresses the core data engineering challenges but also emphasizes optimization and efficiency at every stage, culminating in a robust and scalable data infrastructure.
